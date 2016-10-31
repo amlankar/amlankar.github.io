@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amlan Kar</title>
+    <link>https://amlankar.github.io/index.xml</link>
+    <description>Recent content on Amlan Kar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Amlan Kar</copyright>
+    <lastBuildDate>Sun, 27 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visual Storytelling</title>
+      <link>https://amlankar.github.io/project/cs698/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/project/cs698/</guid>
+      <description>&lt;p&gt;This project is a work in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Attention Models for Visual Question Answering</title>
+      <link>https://amlankar.github.io/project/cs676/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/project/cs676/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Classification using Convolutional Neural Networks</title>
+      <link>https://amlankar.github.io/project/cs671/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/project/cs671/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Detection and Automatic Number Plate Recognition</title>
+      <link>https://amlankar.github.io/project/cs771/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/project/cs771/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Unique Inversions of a Robotic Arm using a Deep Model of Motion</title>
+      <link>https://amlankar.github.io/project/RobotGen/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/project/RobotGen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
