@@ -20,6 +20,21 @@
     </item>
     
     <item>
+      <title>AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos</title>
+      <link>https://amlankar.github.io/publication/adascan/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/adascan/</guid>
+      <description>
+
+&lt;h3 id=&#34;b-example-importance-scores-b&#34;&gt;&lt;b&gt;Example Importance Scores&lt;/b&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://amlankar.github.io/img/adascan_basketball.png&#34; alt=&#34;Example: Basketball (UCF-101)&#34; /&gt;
+&lt;img src=&#34;https://amlankar.github.io/img/adascan_punch.png&#34; alt=&#34;Example: Punch (UCF-101)&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Semantic Attention Models for Visual Question Answering</title>
       <link>https://amlankar.github.io/project/cs676/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>

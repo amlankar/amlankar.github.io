@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication-rsses on Amlan Kar</title>
+    <link>https://amlankar.github.io/publication/index.xml</link>
+    <description>Recent content in Publication-rsses on Amlan Kar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Amlan Kar</copyright>
+    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos</title>
+      <link>https://amlankar.github.io/publication/adascan/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/adascan/</guid>
+      <description>
+
+&lt;h3 id=&#34;b-example-importance-scores-b&#34;&gt;&lt;b&gt;Example Importance Scores&lt;/b&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://amlankar.github.io/img/adascan_basketball.png&#34; alt=&#34;Example: Basketball (UCF-101)&#34; /&gt;
+&lt;img src=&#34;https://amlankar.github.io/img/adascan_punch.png&#34; alt=&#34;Example: Punch (UCF-101)&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
