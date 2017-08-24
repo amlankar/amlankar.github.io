@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Visual Storytelling</title>
-      <link>https://amlankar.github.io/project/cs698/</link>
-      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/project/cs698/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos</title>
       <link>https://amlankar.github.io/publication/adascan/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
@@ -36,42 +27,6 @@
 
 &lt;p&gt;&lt;img src=&#34;https://amlankar.github.io/img/adascan_qual.jpg&#34; alt=&#34;Qualitative&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Semantic Attention Models for Visual Question Answering</title>
-      <link>https://amlankar.github.io/project/cs676/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/project/cs676/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment Classification using Convolutional Neural Networks</title>
-      <link>https://amlankar.github.io/project/cs671/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/project/cs671/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vehicle Detection and Automatic Number Plate Recognition</title>
-      <link>https://amlankar.github.io/project/cs771/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/project/cs771/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstructing Unique Inversions of a Robotic Arm using a Deep Model of Motion</title>
-      <link>https://amlankar.github.io/project/robotgen/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/project/robotgen/</guid>
-      <description></description>
     </item>
     
   </channel>
