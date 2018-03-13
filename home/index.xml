@@ -6,9 +6,69 @@
     <description>Recent content in Homes on Amlan Kar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Amlan Kar</copyright>
+    <copyright>&amp;copy; 2018 Amlan Kar</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://amlankar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://amlankar.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a graduate student at the University of Toronto advised by Prof. Sanja Fidler. I am broadly interested in Computer Vision problems and their applications. I graduated from IIT Kanpur, India in 2017 with a bachelor&amp;rsquo;s degree where I was fortunate to get to work with Prof. Gaurav Sharma and earlier with Prof. Amitabha Mukerjee. In the summer of 2017, I interned with the wonderful research team at Fyusion Inc.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://amlankar.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://amlankar.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://amlankar.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Projects</title>
+      <link>https://amlankar.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>https://amlankar.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/home/teaching/</guid>
+      <description>University of Toronto CSC420 - Intro to Image Understanding (Winter 2018), with Prof. Sanja Fidler
+CSC384 - Intro to AI (Fall 2017), with Prof. Fahiem Bacchus
+IIT Kanpur CS698U - Topics in Computer Vision (2016-17 II), with Prof. Gaurav Sharma
+ESC101 - Introduction to Programming - Tutor (2016-17 II), with Prof. Rajat Mittal
+ESC101 - Introduction to Programming - Tutor (2016-17 I), with Prof. Vinay P. Namboodiri</description>
+    </item>
     
   </channel>
 </rss>

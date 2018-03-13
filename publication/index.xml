@@ -6,27 +6,28 @@
     <description>Recent content in Publications on Amlan Kar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Amlan Kar</copyright>
-    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Amlan Kar</copyright>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amlankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN&#43;&#43;</title>
+      <link>https://amlankar.github.io/publication/polyrnnpp/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/polyrnnpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos</title>
       <link>https://amlankar.github.io/publication/adascan/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://amlankar.github.io/publication/adascan/</guid>
-      <description>
-
-&lt;h3 id=&#34;b-results-b&#34;&gt;&lt;b&gt;Results&lt;/b&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; References are as in the paper. There is an error in the table in the paper (Wang et al. [44] results), which has been corrected here.
-&lt;img src=&#34;https://amlankar.github.io/img/adascan_quan.jpg&#34; alt=&#34;Quantitative&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;b-qualitative-results-b&#34;&gt;&lt;b&gt;Qualitative Results&lt;/b&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://amlankar.github.io/img/adascan_qual.jpg&#34; alt=&#34;Qualitative&#34; /&gt;&lt;/p&gt;
-</description>
+      <description> Results Note: References are as in the paper. There is an error in the table in the paper (Wang et al. [44] results), which has been corrected here. Qualitative Results </description>
     </item>
     
   </channel>
