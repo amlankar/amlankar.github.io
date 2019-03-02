@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Amlan Kar</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amlankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations</title>
+      <link>https://amlankar.github.io/publication/steal/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/steal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative Flow&#43; Dataset</title>
+      <link>https://amlankar.github.io/publication/creativeflow/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/creativeflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Interactive Object Annotation with Curve-GCN</title>
+      <link>https://amlankar.github.io/publication/curvegcn/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/curvegcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Instance Annotation with Deep Extreme Level Set Evolution</title>
+      <link>https://amlankar.github.io/publication/delse/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/delse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lifelong Learning for Image Captioning by Asking Natural Language Questions</title>
