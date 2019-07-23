@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Amlan Kar</copyright>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amlankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>Meta-Sim: Learning to Generate Synthetic Datasets</title>
       <link>https://amlankar.github.io/publication/meta-sim/</link>
-      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://amlankar.github.io/publication/meta-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Caption Images through a Lifetime by Asking Questions</title>
+      <link>https://amlankar.github.io/publication/captionquestions/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/captionquestions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Turtle Graphics for Modeling City Road Layouts</title>
+      <link>https://amlankar.github.io/publication/ntg/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/ntg/</guid>
       <description></description>
     </item>
     
@@ -54,15 +72,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://amlankar.github.io/publication/delse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifelong Learning for Image Captioning by Asking Natural Language Questions</title>
-      <link>https://amlankar.github.io/publication/captionquestions/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/publication/captionquestions/</guid>
       <description></description>
     </item>
     
