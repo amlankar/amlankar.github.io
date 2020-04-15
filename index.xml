@@ -5,9 +5,27 @@
     <description>Recent content in Amlan Kar on Amlan Kar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Amlan Kar</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2020 Amlan Kar</copyright>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning to Evaluate Perception Models using Planner-Centric Metrics</title>
+      <link>https://amlankar.github.io/publication/detection-relevance/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/detection-relevance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Color Triads for Approximation, Learning and Direct Manipulation of Color Distributions</title>
+      <link>https://amlankar.github.io/publication/colorsails/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/colorsails/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Meta-Sim: Learning to Generate Synthetic Datasets</title>
@@ -69,15 +87,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://amlankar.github.io/publication/delse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Color Sails: Discrete-Continuous Palettes for Deep Color Exploration</title>
-      <link>https://amlankar.github.io/publication/colorsails/</link>
-      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/publication/colorsails/</guid>
       <description></description>
     </item>
     
