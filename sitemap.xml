@@ -34,19 +34,34 @@
   
   <url>
     <loc>https://amlankar.github.io/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amlankar.github.io/publication/meta-sim2/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amlankar.github.io/publication/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amlankar.github.io/publication/interactive3dannot/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amlankar.github.io/publication/fedsim/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://amlankar.github.io/publication/detection-relevance/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amlankar.github.io/publication/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

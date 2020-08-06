@@ -23,11 +23,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://amlankar.github.io/publication/meta-sim/">
+  <link rel="canonical" href="https://amlankar.github.io/publication/fedsim/">
 
   
 
-  <title>Meta-Sim: Learning to Generate Synthetic Datasets | Amlan Kar</title>
+  <title>Federated Simulation for Medical Imaging | Amlan Kar</title>
 
 </head>
 <body id="top">
@@ -76,11 +76,11 @@
         </tr>
       </table>
 
-      <h1 itemprop="name" style="text-align: center">Meta-Sim: Learning to Generate Synthetic Datasets</h1>
+      <h1 itemprop="name" style="text-align: center">Federated Simulation for Medical Imaging</h1>
 
       <p class="pub-authors" itemprop="author" align="center">
         
-        <b>Amlan Kar</b>, <a href='https://www.linkedin.com/in/aayush-prakash-0798142b/'>Aayush Prakash</a>, <a href='http://mingyuliu.net/'>Ming-Yu Liu</a>, <a href='https://www.linkedin.com/in/eric-cameracci-b926505a'>Eric Cameracci</a>, <a href='https://www.linkedin.com/in/justin-yuan'>Justin Yuan</a>, <a href='https://www.linkedin.com/in/mrusiniak'>Matt Rusiniak</a>, <a href='http://www.cs.toronto.edu/~davidj/'>David Acuna</a>, <a href='http://web.mit.edu/torralba/www/'>Antonio Torralba</a>, <a href='http://www.cs.toronto.edu/~fidler/'>Sanja Fidler</a>
+        <a href='https://ca.linkedin.com/in/daiqing-li-23873789'>Daiqing Li</a>, <b>Amlan Kar</b>, <a href='https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar'>Nishant Ravikumar</a>, <a href='https://eps.leeds.ac.uk/computing/staff/1535/professor-alejandro-f-frangi'>Alejandro Frangi</a>, <a href='http://www.cs.toronto.edu/~fidler/'>Sanja Fidler</a>
         
       </p><br>
       <span class="pull-right">
@@ -89,35 +89,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2famlankar.github.io%2fpublication%2ffedsim%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f"
+         href="https://twitter.com/intent/tweet?text=Federated%20Simulation%20for%20Medical%20Imaging&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2ffedsim%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f&amp;title=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2ffedsim%2f&amp;title=Federated%20Simulation%20for%20Medical%20Imaging"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f&amp;title=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2famlankar.github.io%2fpublication%2ffedsim%2f&amp;title=Federated%20Simulation%20for%20Medical%20Imaging"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets&amp;body=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f">
+         href="mailto:?subject=Federated%20Simulation%20for%20Medical%20Imaging&amp;body=https%3a%2f%2famlankar.github.io%2fpublication%2ffedsim%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -129,18 +129,18 @@
       </div>
 
     
-    <img src="https://amlankar.github.io/img/meta-sim.gif" class="pub-banner" itemprop="image">
+    <img src="https://amlankar.github.io/img/fedsim.png" class="pub-banner" itemprop="image">
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Training models to high-end performance requires availability of large labeled datasets, which are expensive to get. The goal of our work is to automatically synthesize labeled datasets that are relevant for a downstream task. We propose Meta-Sim, which learns a generative model of synthetic scenes, and obtain images as well as its corresponding ground-truth via a graphics engine. We parametrize our dataset generator with a neural network, which learns to modify attributes of scene graphs obtained from probabilistic scene grammars, so as to minimize the distribution gap between its rendered outputs and target data. If the real dataset comes with a small labeled validation set, we additionally aim to optimize a meta-objective, i.e. downstream task performance. Experiments show that the proposed method can greatly improve content generation quality over a human-engineered probabilistic scene grammar, both qualitatively and quantitatively as measured by performance on a downstream task.</p>
+    <p class="pub-abstract" itemprop="text">Labelling  data  is  expensive  and  time  consuming  especiallyfor  domains  such  as  medical  imaging  that  contain  volumetric  imagingdata and require expert knowledge. Exploiting a larger pool of labeleddata available across multiple centers, such as in federated learning, hasalso seen limited success since current deep learning approaches do notgeneralize well to images acquired with scanners from different manufac-turers. We aim to address these problems in a common, learning-basedimage simulation framework which we refer to asFederated Simulation.We introduce a physics-driven generative approach that consists of twolearnable neural modules: 1) a module that synthesizes 3D cardiac shapesalong with their materials, and 2) a CT simulator that renders these intorealistic 3D CT Volumes, with annotations. Since the model of geometryand material is disentangled from the imaging sensor, it can effectivelybe trained across multiple medical centers. We show that our data syn-thesis  framework  improves  the  downstream  segmentation  performanceon several datasets.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">International Conference on Computer Vision, 2019 <font color='red'><b>(Oral)</b></font></div>
+          <div class="col-xs-12 col-sm-9">International Conference on Medical Image Computing and Computer Assisted Intervention, 2020</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -153,7 +153,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            July, 2019
+            June, 2020
           </div>
         </div>
       </div>
@@ -173,15 +173,11 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/1904.11621">
-  PDF
-</a>
-
 
 
 <a class="btn btn-primary btn-outline"
 onclick="
-    var div = document.getElementById('meta-sim_bib');
+    var div = document.getElementById('fedsim_bib');
     if (div.style.display !== 'none') {
         div.style.display = 'none';
     }
@@ -196,25 +192,17 @@ onclick="
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/nv-tlabs/meta-sim/">
-  Code
-</a>
-
-
-
-<a class="btn btn-primary btn-outline" href="https://nv-tlabs.github.io/meta-sim/">
-  Project
-</a>
 
 
 
 
-<pre id = "meta-sim_bib", style="display:none">
-@inproceedings{kar2019metasim,
- title={Meta-Sim: Learning to Generate Synthetic Datasets},
- author={Kar, Amlan and Prakash, Aayush and Liu, Ming-Yu and Cameracci, Eric and Yuan, Justin and Rusiniak, Matt and Acuna, David and Torralba, Antonio and Fidler, Sanja},
- booktitle={ICCV},
- year={2019}
+
+<pre id = "fedsim_bib", style="display:none">
+@inproceedings{li2020federated,
+ title={Federated Simulation for Medical Imaging},
+ author={Li, Daiqing and Kar, Amlan and Ravikumar, Nishant and Frangi, Alejandro and Fidler, Sanja},
+ booktitle={MICCAI},
+ year={2020}
 }
 </pre>
 
@@ -236,12 +224,12 @@ onclick="
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://amlankar.github.io/publication/ntg/"><span
-      aria-hidden="true">&larr;</span> Neural Turtle Graphics for Modeling City Road Layouts</a></li>
+    <li class="previous"><a href="https://amlankar.github.io/publication/detection-relevance/"><span
+      aria-hidden="true">&larr;</span> Learning to Evaluate Perception Models using Planner-Centric Metrics</a></li>
     
 
     
-    <li class="next"><a href="https://amlankar.github.io/publication/colorsails/">Nonlinear Color Triads for Approximation, Learning and Direct Manipulation of Color Distributions <span
+    <li class="next"><a href="https://amlankar.github.io/publication/interactive3dannot/">Interactive Annotation of 3D Object Geometry using 2D Scribbles <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>

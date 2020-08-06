@@ -6,8 +6,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Amlan Kar</copyright>
-    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation</title>
+      <link>https://amlankar.github.io/publication/meta-sim2/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/meta-sim2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Annotation of 3D Object Geometry using 2D Scribbles</title>
+      <link>https://amlankar.github.io/publication/interactive3dannot/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/interactive3dannot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Simulation for Medical Imaging</title>
+      <link>https://amlankar.github.io/publication/fedsim/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/fedsim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to Evaluate Perception Models using Planner-Centric Metrics</title>

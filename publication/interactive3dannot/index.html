@@ -23,11 +23,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://amlankar.github.io/publication/meta-sim/">
+  <link rel="canonical" href="https://amlankar.github.io/publication/interactive3dannot/">
 
   
 
-  <title>Meta-Sim: Learning to Generate Synthetic Datasets | Amlan Kar</title>
+  <title>Interactive Annotation of 3D Object Geometry using 2D Scribbles | Amlan Kar</title>
 
 </head>
 <body id="top">
@@ -76,11 +76,11 @@
         </tr>
       </table>
 
-      <h1 itemprop="name" style="text-align: center">Meta-Sim: Learning to Generate Synthetic Datasets</h1>
+      <h1 itemprop="name" style="text-align: center">Interactive Annotation of 3D Object Geometry using 2D Scribbles</h1>
 
       <p class="pub-authors" itemprop="author" align="center">
         
-        <b>Amlan Kar</b>, <a href='https://www.linkedin.com/in/aayush-prakash-0798142b/'>Aayush Prakash</a>, <a href='http://mingyuliu.net/'>Ming-Yu Liu</a>, <a href='https://www.linkedin.com/in/eric-cameracci-b926505a'>Eric Cameracci</a>, <a href='https://www.linkedin.com/in/justin-yuan'>Justin Yuan</a>, <a href='https://www.linkedin.com/in/mrusiniak'>Matt Rusiniak</a>, <a href='http://www.cs.toronto.edu/~davidj/'>David Acuna</a>, <a href='http://web.mit.edu/torralba/www/'>Antonio Torralba</a>, <a href='http://www.cs.toronto.edu/~fidler/'>Sanja Fidler</a>
+        Tianchang Shen*, <a href='http://www.cs.toronto.edu/~jungao/'>Jun Gao*</a>, <b>Amlan Kar</b>, <a href='http://www.cs.toronto.edu/~fidler/'>Sanja Fidler</a>
         
       </p><br>
       <span class="pull-right">
@@ -89,35 +89,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2famlankar.github.io%2fpublication%2finteractive3dannot%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f"
+         href="https://twitter.com/intent/tweet?text=Interactive%20Annotation%20of%203D%20Object%20Geometry%20using%202D%20Scribbles&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2finteractive3dannot%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f&amp;title=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2famlankar.github.io%2fpublication%2finteractive3dannot%2f&amp;title=Interactive%20Annotation%20of%203D%20Object%20Geometry%20using%202D%20Scribbles"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f&amp;title=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2famlankar.github.io%2fpublication%2finteractive3dannot%2f&amp;title=Interactive%20Annotation%20of%203D%20Object%20Geometry%20using%202D%20Scribbles"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Meta-Sim%3a%20Learning%20to%20Generate%20Synthetic%20Datasets&amp;body=https%3a%2f%2famlankar.github.io%2fpublication%2fmeta-sim%2f">
+         href="mailto:?subject=Interactive%20Annotation%20of%203D%20Object%20Geometry%20using%202D%20Scribbles&amp;body=https%3a%2f%2famlankar.github.io%2fpublication%2finteractive3dannot%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -129,18 +129,18 @@
       </div>
 
     
-    <img src="https://amlankar.github.io/img/meta-sim.gif" class="pub-banner" itemprop="image">
+    <img src="https://amlankar.github.io/img/interactive3dannot.jpg" class="pub-banner" itemprop="image">
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Training models to high-end performance requires availability of large labeled datasets, which are expensive to get. The goal of our work is to automatically synthesize labeled datasets that are relevant for a downstream task. We propose Meta-Sim, which learns a generative model of synthetic scenes, and obtain images as well as its corresponding ground-truth via a graphics engine. We parametrize our dataset generator with a neural network, which learns to modify attributes of scene graphs obtained from probabilistic scene grammars, so as to minimize the distribution gap between its rendered outputs and target data. If the real dataset comes with a small labeled validation set, we additionally aim to optimize a meta-objective, i.e. downstream task performance. Experiments show that the proposed method can greatly improve content generation quality over a human-engineered probabilistic scene grammar, both qualitatively and quantitatively as measured by performance on a downstream task.</p>
+    <p class="pub-abstract" itemprop="text">Inferring detailed 3D geometry of the scene is crucial for robotics applications, simulation, and 3D content creation. However, such information is hard to obtain, and thus very few datasets support it. In this paper, we propose an interactive framework for annotating 3D object geometry from both point cloud data and RGB imagery. The key idea behind our approach is to exploit strong priors that humans have about the 3D world in order to interactively annotate complete 3D shapes. Our framework targets a wide pool of annotators, i.e. naive users without artistic or graphics expertise. In particular, we introduce two simple-to-use interaction modules. First, we make an automatic guess of the 3D shape and allow the user to provide feedback about large errors by drawing scribbles in desired 2D views. Next, we aim to correct minor errors, in which users drag and drop 3D mesh vertices, assisted by a neural interactive module implemented as a Graph Convolutional Network. Experimentally, we show that only a few user interactions are needed to produce good quality 3D shapes on popular benchmarks such as ShapeNet, Pix3D and ScanNet. We implement our framework as a web service and conduct a user study, where we show that user annotated data using our method effectively facilitates real-world learning tasks.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">International Conference on Computer Vision, 2019 <font color='red'><b>(Oral)</b></font></div>
+          <div class="col-xs-12 col-sm-9">European Conference on Computer Vision, 2020</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -153,7 +153,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            July, 2019
+            August, 2020
           </div>
         </div>
       </div>
@@ -173,15 +173,11 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/1904.11621">
-  PDF
-</a>
-
 
 
 <a class="btn btn-primary btn-outline"
 onclick="
-    var div = document.getElementById('meta-sim_bib');
+    var div = document.getElementById('interactive3dannot_bib');
     if (div.style.display !== 'none') {
         div.style.display = 'none';
     }
@@ -196,25 +192,21 @@ onclick="
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/nv-tlabs/meta-sim/">
-  Code
-</a>
 
 
-
-<a class="btn btn-primary btn-outline" href="https://nv-tlabs.github.io/meta-sim/">
+<a class="btn btn-primary btn-outline" href="http://www.cs.toronto.edu/~shenti11/scribble3d/">
   Project
 </a>
 
 
 
 
-<pre id = "meta-sim_bib", style="display:none">
-@inproceedings{kar2019metasim,
- title={Meta-Sim: Learning to Generate Synthetic Datasets},
- author={Kar, Amlan and Prakash, Aayush and Liu, Ming-Yu and Cameracci, Eric and Yuan, Justin and Rusiniak, Matt and Acuna, David and Torralba, Antonio and Fidler, Sanja},
- booktitle={ICCV},
- year={2019}
+<pre id = "interactive3dannot_bib", style="display:none">
+@inproceedings{shen2020interactive,
+ title={Interactive Annotation of 3D Object Geometry using 2D Scribbles},
+ author={Shen, Tianchang and Gao, Jun and Kar, Amlan and Fidler, Sanja},
+ booktitle={ECCV},
+ year={2020}
 }
 </pre>
 
@@ -236,12 +228,12 @@ onclick="
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://amlankar.github.io/publication/ntg/"><span
-      aria-hidden="true">&larr;</span> Neural Turtle Graphics for Modeling City Road Layouts</a></li>
+    <li class="previous"><a href="https://amlankar.github.io/publication/fedsim/"><span
+      aria-hidden="true">&larr;</span> Federated Simulation for Medical Imaging</a></li>
     
 
     
-    <li class="next"><a href="https://amlankar.github.io/publication/colorsails/">Nonlinear Color Triads for Approximation, Learning and Direct Manipulation of Color Distributions <span
+    <li class="next"><a href="https://amlankar.github.io/publication/meta-sim2/">Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
