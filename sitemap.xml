@@ -34,19 +34,24 @@
   
   <url>
     <loc>https://amlankar.github.io/</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amlankar.github.io/publication/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amlankar.github.io/publication/good-practices-class/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://amlankar.github.io/publication/meta-sim2/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amlankar.github.io/publication/</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
