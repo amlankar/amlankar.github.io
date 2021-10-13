@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Amlan Kar</copyright>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amlankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>
+      <link>https://amlankar.github.io/publication/atiss/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/atiss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets</title>
