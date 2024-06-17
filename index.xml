@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Amlan Kar</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Outdoor Scene Extrapolation with Hierarchical Generative Cellular Automata</title>
+      <link>https://amlankar.github.io/publication/hgca/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/hgca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations</title>
+      <link>https://amlankar.github.io/publication/visor/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amlankar.github.io/publication/visor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>
@@ -123,24 +141,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://amlankar.github.io/publication/curvegcn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Object Instance Annotation with Deep Extreme Level Set Evolution</title>
-      <link>https://amlankar.github.io/publication/delse/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/publication/delse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN&#43;&#43;</title>
-      <link>https://amlankar.github.io/publication/polyrnnpp/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://amlankar.github.io/publication/polyrnnpp/</guid>
       <description></description>
     </item>
     
